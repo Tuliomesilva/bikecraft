@@ -1,0 +1,33 @@
+.titulo-bg {
+  background-color: var(--cor-11);
+}
+
+.titulo {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.titulo p {
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.termos {
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+
+.termos-texto h2 {
+  margin-bottom: 20px;
+}
+
+.termos-texto ul {
+  margin-bottom: 80px;
+}
+
+.termos-texto li {
+  margin-bottom: 32px;
+}
+
+
+
+
